@@ -1,4 +1,4 @@
-# Challenge ForIT - User Management App
+# Challenge ForIT
 
 Esta es una aplicación React que consume datos de una API REST y permite gestionar usuarios de forma interactiva.
 
