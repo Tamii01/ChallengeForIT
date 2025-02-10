@@ -31,14 +31,15 @@ Sigue los  pasos para correr la aplicación en tu entorno local:
    npm start
    ```
 
-4. Abre tu navegador y accede a `http://localhost:3000/`.
+4. Abre tu navegador y accede a `http://localhost:5173/`.
 
 ## Uso de la aplicación
-- La página principal obtiene la lista de usuarios desde la API y los presenta en tarjetas. 
-- Usa la barra de búsqueda para filtrar por nombre, email o ciudad.
-- Haz clic en una tarjeta para expandir la información del usuario.
-- Haz clic en "Add Users +" para agregar un nuevo usuario.
-- Los usuarios agregados se almacenan en memoria.
+- La página principal obtiene la lista de usuarios desde la API y los presenta en tarjetas.
+
+Puedes:
+- Usar la barra de búsqueda para filtrar por nombre, email o ciudad.
+- Hacer clic en una tarjeta para expandir la información del usuario.
+- Hacer clic en "Add Users +" para agregar un nuevo usuario. (Los usuarios agregados se almacenan en memoria.)
 
 ## Estructura del proyecto
 ```
